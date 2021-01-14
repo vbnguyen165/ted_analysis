@@ -1,7 +1,7 @@
 # TED TALKS DATA ANALYSIS
 This is a personal project that analyzes data on online TED Talks to find out ways to extend TED's impact on the world.
 
-If you are interested in demonstrate the creation of a TED Talk database with user reviews, please refer to <a href="https://github.com/vbnguyen165/Ted-Talks-Database">this repository</a>.
+If you are interested in the demonstration of a TED Talk database with user reviews, please refer to <a href="https://github.com/vbnguyen165/Ted-Talks-Database">this repository</a>.
 
 Four main hypotheses put forward is:
 
